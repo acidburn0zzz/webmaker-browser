@@ -33,8 +33,8 @@
     "classnames": "2.2.0",
     "color": "0.10.1",
     "email-validator": "1.0.3",
-    "handlebars": "4.0.3",
-    "hapi": "8.6.0",
+    "handlebars": "4.7.10",
+    "hapi": "18.1.0",
     "hapi-bunyan": "0.6.0",
     "nets": "3.2.0",
     "react": "0.14.0",
@@ -42,7 +42,7 @@
     "react-dom": "0.14.0",
     "react-intl": "v2.0.0-pr-3",
     "react-router": "v1.0.0-rc3",
-    "ua-parser-js": "0.7.9",
+    "ua-parser-js": "0.7.33",
     "webmaker-core": "https://github.com/mozilla/webmaker-core.git#v1.6.1"
   },
   "devDependencies": {
